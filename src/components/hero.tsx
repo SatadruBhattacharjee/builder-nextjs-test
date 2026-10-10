@@ -15,7 +15,7 @@ export function Hero() {
           <span className="rounded-full bg-brand-600 px-2 py-0.5 text-xs font-semibold text-white">New</span>
           Automations 2.0 is live →
         </a>
-        <h1 className="mx-auto mt-8 max-w-4xl text-4xl font-semibold tracking-tight text-balance sm:text-6xl">
+        <h1 className="mx-auto mt-8 max-w-4xl text-4xl font-semibold tracking-tight text-balance text-brand-400 sm:text-6xl">
           Ship faster with{" "}
           <span className="bg-gradient-to-r from-brand-600 to-fuchsia-500 bg-clip-text text-transparent">
             less overhead
