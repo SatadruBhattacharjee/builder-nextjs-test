@@ -23,7 +23,7 @@ export function SectionHeading({
       <p className="text-sm font-semibold tracking-wide text-brand-600 uppercase dark:text-brand-400">
         {eyebrow}
       </p>
-      <h2 className="mt-3 text-3xl font-semibold tracking-tight text-balance sm:text-4xl">{title}</h2>
+      <h2 className="mt-3 text-3xl font-semibold tracking-tight text-balance sm:text-5xl text-brand-400">{title}</h2>
       {description && (
         <p className="mt-4 text-lg text-pretty text-zinc-600 dark:text-zinc-400">{description}</p>
       )}
